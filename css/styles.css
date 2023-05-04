@@ -3,15 +3,33 @@ body *{
     border: 0;
     padding: 0;
 }
-nav{
+.nav{
     background-color: #30a7af;
     color:white;
 }
 .Negro{
     background-color: #000;
-    color: white;
+    color: aliceblue;
+    font-weight: lighter;
 }
 .quienes{
     background-color:#0dcaf0;
     text-align: center;
+}
+.fondoturquesa{
+    background-color:#0dcaf0;
+    color: aliceblue;
+    border-radius:0%;
+    border: 0%;
+}
+.titulos{
+    text-align: center;
+    color: aliceblue;
+    padding: 3rem;
+    
+}
+footer{
+    background-color: #30a7af;
+    color:white;
+    font-size: 10px;
 }
