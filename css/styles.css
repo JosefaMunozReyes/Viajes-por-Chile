@@ -9,4 +9,9 @@ nav{
 }
 .Negro{
     background-color: #000;
+    color: white;
+}
+.quienes{
+    background-color:#0dcaf0;
+    text-align: center;
 }
