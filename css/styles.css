@@ -1,0 +1,12 @@
+body *{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+nav{
+    background-color: #30a7af;
+    color:white;
+}
+.Negro{
+    background-color: #000;
+}
