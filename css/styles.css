@@ -31,5 +31,11 @@ body *{
 footer{
     background-color: #30a7af;
     color:white;
-    font-size: 10px;
+
+}
+.textfooter{
+    color:white;
+    font-size: 20px;
+    padding: 5px;
+    font-weight: lighter;
 }
